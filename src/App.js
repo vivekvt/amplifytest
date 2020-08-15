@@ -37,7 +37,7 @@ class App extends Component {
     // );
     return (
       <div>
-        <Signup />
+        <h1>hello vt</h1>
       </div>
     );
   }
