@@ -37,7 +37,7 @@ class App extends Component {
     // );
     return (
       <div>
-        <h1>hello vt</h1>
+        <h1>Changed Testing Amplify</h1>
       </div>
     );
   }
